@@ -1,8 +1,18 @@
 body{
-    background-color: blanchedalmond;
+    background-color: #ff6f5e;
 }
-table{
+hr{
+  border-style: none;
+  border-top: dotted;
+  border-color: black;
+  border-width: 5px;
+  height: 0px;
+  width: 5%;
+}
+h1, h3 {
+  color: #f5f0e3;
 }
 #pug{
+  border-radius: 50%;
   max-height: 10rem;  
 }
